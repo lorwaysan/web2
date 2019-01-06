@@ -1,0 +1,378 @@
+	#top{
+		height: 26px;
+	}
+	#top1{
+		width: 80px;
+		margin-top: 7px;
+		font-size: 12px;
+		height: 19px;
+		color: grey;
+		float: left;
+	}
+	#top2{
+		margin-left: 378px;
+		margin-top: 7px;
+		height: 19px;
+		width: 19px;
+		float: left;
+		background: url(img/common_min.png) -0px -31px;
+	}
+	#top3{
+		margin-left: 18px;
+		margin-top: 7px;
+		height: 19px;
+		width: 19px;
+		float: left;
+		background: url(img/common_min.png) -0px -53px;	
+	}
+	#top4{
+		margin-left: 18px;
+		margin-top: 7px;
+		height: 19px;
+		width: 19px;
+		float: left;	
+		background: url(img/common_min.png) -0px -75px;
+	}
+	#top5{
+		margin-left: 17px;
+		margin-top: 7px;
+		height: 19px;
+		width: 26px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top6{
+		margin-left: 17px;
+		margin-top: 7px;
+		height: 19px;
+		width: 25px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top7{
+		margin-left: 17px;
+		margin-top: 11px;
+		height: 10px;
+		width: 15px;
+		float: left;	
+		background: url(img/common_min.png) -4px -117px;
+	}
+	#top8{
+		margin-left: 3px;
+		margin-top: 7px;
+		height: 19px;
+		width: 25px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top9{
+		margin-left: 17px;
+		margin-top: 9px;
+		height: 14px;
+		width: 13px;
+		float: left;
+		background: url(img/dingdan.jpg)	
+	}
+	#top10{
+		margin-left: 3px;
+		margin-top: 7px;
+		height: 19px;
+		width: 50px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top11{
+		margin-left: 16px;
+		margin-top: 7px;
+		height: 19px;
+		width: 50px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top12{
+		margin-left: 17px;
+		margin-top: 7px;
+		height: 19px;
+		width: 49px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top13{
+		margin-left: 17px;
+		margin-top: 9px;
+		height: 14px;
+		width: 8px;
+		float: left;
+		background: url(img/tp-my-phone.png)
+	}
+	#top14{
+		margin-top: 7px;
+		height: 19px;
+		width: 37px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top15{
+		margin-left: 18px;
+		margin-top: 7px;
+		height: 19px;
+		width: 32px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top16{
+		margin-left: 16px;
+		margin-top: 7px;
+		height: 19px;
+		width: 50px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top17{
+		margin-left: 17px;
+		margin-top: 7px;
+		height: 15px;
+		width: 18px;
+		float: left;
+		background: url(img/gouwuche.jpg)
+	}
+	#top18{
+		margin-left: 6px;
+		margin-top: 7px;
+		height: 19px;
+		width: 36px;
+		font-size: 12px;
+		color: grey;
+		float: left;	
+	}
+	#top19{
+		margin-left: 6px;
+		margin-top: 7px;
+		height: 19px;
+		font-size: 12px;
+		color: orange;
+		float: left;	
+		font-weight: bold;
+	}
+
+	#neck{
+		height: 103px;
+	}
+	#logo{
+		margin-top: 17px;
+		width: 141px;
+		height: 62px;
+		background:url(img/logo_03.jpg);
+		float: left;
+	}
+	#searchadv{
+		height: 97px;
+		width: 691px;
+		float: left;
+	}
+	#advtop{
+		margin-top: 10px;
+		margin-left: 107px;
+		width: 563px;
+		height: 16px;
+	}
+	#advtop1{
+		width: 65px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #ff0000;
+		text-align: center;
+	}
+	#advtop2{
+		width: 76px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #ff0000;
+		text-align: center;
+	}
+	#advtop3{
+		width: 52px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #666560;
+		text-align: center;
+	}
+	#advtop4{
+		width: 64px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #666560;
+		text-align: center;
+	}
+	#advtop5{
+		width: 64px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #c0a9d6;
+		text-align: center;
+	}
+	#advtop6{
+		width: 68px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #c0a9d6;
+		text-align: center;
+	}
+	#advtop7{
+		width: 52px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #666560;
+		text-align: center;
+	}
+	#advtop8{
+		width: 40px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #666560;
+		text-align: center;
+	}
+	#advtop9{
+		width: 52px;
+		height: 11px;
+		float: left;
+		font-size: 11px;
+		color: #666560;
+		text-align: center;
+	}
+	#advtop10{
+		width: 14px;
+		height: 11px;
+		float: left;
+		margin-left: 7px;
+		font-size: 11px;
+		color: #666560;
+	}
+
+
+	.advtopline{
+		height: 16px;
+		width: 1px;
+		background-color: #ebe7e7;
+		float: left;
+	}
+	#search{
+		margin-left: 108px;
+		margin-top: 31px;
+		border-style: solid;
+		border-color: #fe6c00;
+		border-width: 3px;
+		width: 577px;
+		height: 34px;
+	}
+	#search1{
+		width: 497px;
+		height: 32px;
+		float: left;
+		border:none;
+		outline: none;
+	}
+	#search2{
+		width: 80px;
+		height: 35px;
+		margin-top: -1px;
+		margin-left:0px;
+		float: left;
+		border: none;
+		background-color:#fe6c00;
+		font-size:16px;
+		color: white;
+	}
+	#telephone{
+		margin-left:90px;
+		margin-top:31px;
+		height: 38px;
+		width: 84px;
+		float: left;
+		border-style: solid;
+		border-color: #e6e5e2;
+		border-width: 1px;
+		border-radius: 3px;
+	}
+	#email{
+		margin-left:0px;
+		margin-top:31px;
+		height: 38px;
+		width: 84px;
+		float: left;
+		border-style: solid;
+		border-color: #e6e5e2;
+		border-width: 1px;
+		border-radius: 3px;
+	}
+	#question{
+		margin-left:0px;
+		margin-top:31px;
+		height: 38px;
+		width: 84px;
+		float: left;
+		border-style: solid;
+		border-color: #e6e5e2;
+		border-width: 1px;
+		border-radius: 3px;	
+		background-color: #ff4d04;
+	}
+	#ques1{
+		margin-top: 15px;
+		margin-left: 7px;
+		width: 13px;
+		height: 13px;
+		float: left;
+		background: url(img/wenhao.jpg);
+	}
+	#ques2{
+		margin-left: 2px;
+		margin-top: 13px;
+		width: 52px;
+		height: 12px;
+		color: white;
+		font-size: 10px;
+		float: left;
+	}
+	#tele1{
+		margin-top: 6px;
+		margin-left: 32px;
+		width: 14px;
+		height: 13px;
+		background: url(img/common_min.png) -4px -98px;
+	}
+	#tele2{
+		margin-top:3px;
+		margin-left:1px;
+		color: #9a9791;
+		font-size: 10px;
+	}
+	#email1{
+		margin-left:31px;
+		margin-top:6px;
+		width: 15px;
+		height: 10px;
+		background: url(img/common_min.png) -4px -117px;
+	}
+	#email2{
+		margin-top: 5px;
+		color: #9a9791;
+		font-size: 10px;
+	}
